@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AplicacionCamara</string>
+    <string name="txt_abrir_camara">Tomar Foto</string>
+</resources>
